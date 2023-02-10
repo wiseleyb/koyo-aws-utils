@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in koyo-aws.gemspec
+# Specify your gem""s dependencies in koyo-aws.gemspec
 gemspec
 
 gem "aws-sdk", "~> 3"
